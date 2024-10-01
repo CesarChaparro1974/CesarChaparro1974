@@ -1,5 +1,5 @@
 ## Hi there 👋, I am Cesar, a Junior Data Analyst.
-[![Gmail badge](https://img.shields.io/badge/-cesarchaparrobenlloch@gmail.com-C14438?style=flat&logo=Gmail&logoColor=white&link=cesarchaparrobenlloch@gmail.com)](mailto:cesarchaparrobenlloch@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-cesar-chaparro-841782106-blue?logo=LinkedIn)](https://www.linkedin.com/in/cesar-chaparro-841782106/) [![GitHub](https://img.shields.io/badge/GitHub-Cesarchaparro1974-black?logo=GitHub)](https://github.com/CesarChaparro1974)
+[![Gmail Badge](https://img.shields.io/badge/-cesarchaparrobenlloch@gmail.com-C14438?style=flat&logo=Gmail&logoColor=white&link=cesarchaparrobenlloch@gmail.com)](mailto:cesarchaparrobenlloch@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-cesar-chaparro-841782106-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cesar-chaparro-841782106/)](https://www.linkedin.com/in/cesar-chaparro-841782106/) [![GitHub Badge](https://img.shields.io/badge/GitHub-Cesarchaparro1974-black?logo=GitHub)](https://github.com/CesarChaparro1974)
 
 
 
