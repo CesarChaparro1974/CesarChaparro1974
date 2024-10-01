@@ -1,4 +1,9 @@
-## Hi there 👋, I am Cesar, Junior Data Analyst with experience with real projects, my skills include business analytics, visualizations, storytelling, software development, python, sql, ML, A/B testing, now I am ready to leverage my skills in business to drive growth, sales and profit.
+## Hi there 👋, I am Cesar, a Junior Data Analyst.
+[![Email](https://img.shields.io/badge/cesar-auditor@hotmail.com-blue)](mailto:cesar-auditor@hotmail.com) [![LinkedIn](https://img.shields.io/badge/www.linkedin.com/in/cesar-chaparro-841782106-blue?logo=LinkedIn)](https://www.linkedin.com/in/cesar-chaparro-841782106) [![GitHub](https://img.shields.io/badge/GitHub-Cesarchaparro1974-black?logo=GitHub)](https://github.com/CesarChaparro1974)
+
+
+
+I have experience with real projects, my skills include business analytics, visualizations, storytelling, software development, python, sql, ML, A/B testing, now I am ready to leverage my skills in business to drive growth, sales and profit.
 Currently I am working as editor and linguist in Amazon, my previous experience on business management, quality assurance and operations management as well as business consulting gave me the right view as analyst to address problems and strategies from the most effective point.
 In 2023 I enrolled the DA program at TripleTen, an intensive training, their curriculum covered SQL, Python, various Libraries, Data visualization, ML, A/B Testing, Software Development, Business Analysis, etc., where I was able to develop real job projects and practice.
 
@@ -13,3 +18,4 @@ Here are some facts about me:
 - 😄 Pronouns: him/his
 - ✨ Fun fact: Only positive vibes, despite the stress.
 - 🏵️ Goal for 2024: To land in my dream job in Data.
+Feel free to contact me if we may be a match in Github or my Linkedin.
