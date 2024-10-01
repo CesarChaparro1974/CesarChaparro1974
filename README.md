@@ -4,15 +4,15 @@
 
 Here are some facts about me:
 
-🔭 It interest me very much to be part of professional events and projects.
-🌱 I love to help team mates and to collaborate with a team, I used to help other students and see they are progessing well in the program.
-👯 I’m looking to collaborate with companies which have an interest to grow and improve their professional activity and take care about their team.
-🧩 I see the importance of being in good communication, planning ahead and be organized with the team, I hate to work alone in the ivory tower.
-🗺️ Personally I love music, gym and to be with my loved ones any time I can, travel and know new cultures and mentality around the world.
-📫 How to reach me: +972527520220
-😄 Pronouns: him/his
-✨ Fun fact: Only positive vibes, despite the stress.
-🏵️ Goal for 2024: To land in my dream job in Data. Feel free to contact me if we may be a match in Github or my Linkedin.</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/13im8HeSTcmgx1sftsIfjn5oXtr45ZsE2/view?usp=drive_link ' target=_blank><u>here</u>.</a></p>
+- 🔭 It interest me very much to be part of professional events and projects.
+- 🌱 I love to help team mates and to collaborate with a team, I used to help other students and see they are progessing well in the program.
+- 👯 I’m looking to collaborate with companies which have an interest to grow and improve their professional activity and take care about their team.
+- 🧩 I see the importance of being in good communication, planning ahead and be organized with the team, I hate to work alone in the ivory tower.
+- 🗺️ Personally I love music, gym and to be with my loved ones any time I can, travel and know new cultures and mentality around the world.
+- 📫 How to reach me: +972527520220
+- 😄 Pronouns: him/his
+- ✨ Fun fact: Only positive vibes, despite the stress.
+- 🏵️ Goal for 2024: To land in my dream job in Data. Feel free to contact me if we may be a match in Github or my Linkedin.</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/13im8HeSTcmgx1sftsIfjn5oXtr45ZsE2/view?usp=drive_link ' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=CesarChaparro1974 alt=CesarChaparro1974 /> </p>
 
