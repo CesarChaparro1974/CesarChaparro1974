@@ -12,7 +12,6 @@ Here are some facts about me:
 - 🔭 It interest me very much to be part of professional events and projects.
 - 🌱 I love to help team mates and to collaborate with a team, I used to help other students and see they are progessing well in the program.
 - 👯 I don't work just to survive, I want to be part of a project where it can grow and to take my part with my knowledge, experience and technical knowledge.
-- 🧩 I see the importance of being in good communication, planning ahead and be organized with the team, I hate to work alone in the ivory tower.
 - 🗺️ Personally I love music, gym and to be with my loved ones any time I can, travel and know new cultures and mentality around the world.
 - 📫 How to reach me: +972527520220
 - 😄 Pronouns: him/his
@@ -22,4 +21,3 @@ Here are some facts about me:
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=CesarChaparro1974&show_icons=true&include_all_commits=true)](https://github.com/CesarChaparro1974/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CesarChaparro1974&layout=compact)](https://github.com/CesarChaparro1974/github-readme-stats)
-
