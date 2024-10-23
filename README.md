@@ -1,6 +1,6 @@
 ## Cesar Chaparro: Not just a fresh Data Analyst...
 [![Gmail Badge](https://img.shields.io/badge/-cesarchaparrobenlloch@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:cesarchaparrobenlloch@gmail.com)](mailto:cesarchaparrobenlloch@gmail.com) 
-[![LinkedIn Badge](https://img.shields.io/badge/-Cesar%20Chaparro-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cesar-chaparro-841782106/)](https://www.linkedin.com/in/cesar-chaparro-841782106/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Cesar%20Chaparro-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cesarda)](https://www.linkedin.com/in/cesar-chaparro-841782106/)
 [![Github Badge](https://img.shields.io/badge/-CesarChaparro1974-grey?style=flat&logo=github&logoColor=white&link=https://github.com/CesarChaparro1974/)](https://www.github.com/CesarChaparro1974/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/CesarChaparro1974?tab=repositories/)](https://github.com/CesarChaparro1974?tab=repositories/) <p align='left'>I am here to listen, analyze and solve your business concerns.<br>
 I have experience with real-based projects.<br>
 My skills include: business analytics, visualizations, storytelling, software development, python, sql, Machine Learning, A/B testing.<br>
