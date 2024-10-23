@@ -10,13 +10,11 @@ Now I am ready to leverage my skills in business to drive growth, sales and prof
 
 Here are some facts about me:
 
-- 🔭 It interest me very much to be part of professional events and projects.
-- 🌱 I love to help team mates and to collaborate with a team, I used to help other students and see they are progessing well in the program.
-- 👯 I don't work just to survive, I want to be part of a project where it can grow and to take my part with my knowledge, experience and technical knowledge.
-- 🗺️ Personally I love music, gym and to be with my loved ones any time I can, travel and know new cultures and mentality around the world.
-- 📫 How to reach me: +972527520220
-- 😄 Pronouns: him/his
-- Contact me so we can start our collaboration together. </p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/13im8HeSTcmgx1sftsIfjn5oXtr45ZsE2/view?usp=drive_link ' target=_blank><u>here</u>.</a></p>
+- 🔭 +20 years of experience with business and operations management.
+- 🌱 Increased production on the last position as property manager by 98% in the last 3 years.
+- 👯 Experience in various business sectors as finance, operations, quality, workflow, administration and marketing.
+- 🗺️ I seek to be part of a project, rather than looking for a job in order to survive.
+- Contact me now if you want to know more. </p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/13im8HeSTcmgx1sftsIfjn5oXtr45ZsE2/view?usp=drive_link ' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=CesarChaparro1974 alt=CesarChaparro1974 /> </p>
 
