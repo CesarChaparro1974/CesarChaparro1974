@@ -14,7 +14,7 @@ Here are some facts about me:
 - 🌱 Increased production on the last position as property manager by 98% in the last 3 years.
 - 👯 Experience in various business sectors as finance, operations, quality, workflow, administration and marketing.
 - 🗺️ I seek to be part of a project, rather than looking for a job in order to survive.
-- Contact me now if you want to know more. </p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/13im8HeSTcmgx1sftsIfjn5oXtr45ZsE2/view?usp=drive_link ' target=_blank><u>here</u>.</a></p>
+- Contact me now if you want to know more. </p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1dtYGI5L5QtkkAyj8tlpTNATnjfqDGfWa/view?usp=drive_link' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=CesarChaparro1974 alt=CesarChaparro1974 /> </p>
 
