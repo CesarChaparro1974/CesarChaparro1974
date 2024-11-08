@@ -15,7 +15,7 @@ Here are some facts about me:
 - 🌱 Increased production on the last position as property manager by 98% in the last 3 years.
 - 👯 Experience in various business sectors as finance, operations, quality, workflow, administration and marketing.
 - Skills: SQL | Python | Spreadsheets | Visual Studio Code | Jupyter Notebook | Tableau | Pandas | BI | ML | AB Testing | Finance Analysis | Software Development | Streamlit</p>
-- CONTACT ME IF YOU ARE LOOKING FOR A JUNIOR DATA ANALYST NOW. </p><p align='left'>
+CONTACT ME IF YOU ARE LOOKING FOR A JUNIOR DATA ANALYST NOW. </p><p align='left'>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=CesarChaparro1974 alt=CesarChaparro1974 /> </p>
 
