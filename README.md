@@ -1,5 +1,5 @@
 ## My portfolio as Data Analyst.
-[![Gmail Badge](https://img.shields.io/badge/-cesarchaparrobenlloch@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:cesarchaparrobenlloch@gmail.com)](mailto:cesarchaparrobenlloch@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/--c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:cesarchaparrobenlloch@gmail.com)](mailto:cesarchaparrobenlloch@gmail.com) 
 [![LinkedIn Badge](https://img.shields.io/badge/-%20-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cesarda/)](https://www.linkedin.com/in/cesarda/)
 [![CV Badge](https://img.shields.io/badge/CV-blue?style=flat)](https://qrco.de/bfY2tZ)<br>
 I am here to listen, analyze and solve your business concerns.<br>
