@@ -1,7 +1,7 @@
 ## My portfolio as Data Analyst.
 [![Gmail Badge](https://img.shields.io/badge/-cesarchaparrobenlloch@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:cesarchaparrobenlloch@gmail.com)](mailto:cesarchaparrobenlloch@gmail.com) 
 [![LinkedIn Badge](https://img.shields.io/badge/-Cesar%20Chaparro-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cesarda/)](https://www.linkedin.com/in/cesarda/)
-[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/CesarChaparro1974?tab=repositories/)](https://github.com/CesarChaparro1974?tab=repositories/) <p align='left'>I am here to listen, analyze and solve your business concerns.<br>
+[![CV Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/CesarChaparro1974?tab=repositories/)](https://qrco.de/bfY2tZ) <p align='left'>I am here to listen, analyze and solve your business concerns.<br>
 Experienced with real-based projects.<br>
 My skills include: business analytics, visualizations, storytelling, software development, python, sql, Machine Learning, A/B testing.<br>
 My previous experience on business management, quality assurance and operations management as well as business consulting *gave me the right view as analyst to address problems and strategies from the most effective point*.<br>
