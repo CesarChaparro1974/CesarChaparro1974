@@ -1,7 +1,7 @@
 ## My portfolio as Data Analyst.
 [![Gmail Badge](https://img.shields.io/badge/--c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:cesarchaparrobenlloch@gmail.com)](mailto:cesarchaparrobenlloch@gmail.com) 
 [![LinkedIn Badge](https://img.shields.io/badge/-%20-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cesarda/)](https://www.linkedin.com/in/cesarda/)
-[![CV Badge](https://img.shields.io/badge/CV-blue?style=flat)](https://drive.google.com/file/d/1wZ6NR1z2QDYqtRZVVw-8JqSUMb8n5HZz/view?usp=drive_link)<br>
+[![CV Badge](https://img.shields.io/badge/CV-blue?style=flat)](https://drive.google.com/file/d/1CpVbBTlYih3NA9yjwDUIVCDtI52TBw_d/view?usp=drive_link)<br>
 I am here to listen, analyze and solve your business concerns.<br>
 Experienced with real-based projects.<br>
 My skills include: business analytics, visualizations, storytelling, software development, python, sql, Machine Learning, A/B testing.<br>
