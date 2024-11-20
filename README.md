@@ -4,6 +4,7 @@
 [![CV Badge](https://img.shields.io/badge/CV-blue?style=flat)](https://drive.google.com/file/d/11dvX2hZk4oW8Atxrquog9Th4lhNOH0aQ/view?usp=drive_link)
 [![Website Badge](https://img.shields.io/badge/Website-blue?style=flat)](https://cesarchaparrobenll.wixsite.com/cesar-data-analyst)
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <br>
 I am here to listen, analyze and solve your business concerns.<br>
 Experienced with real-based projects.<br>
