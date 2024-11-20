@@ -4,8 +4,6 @@
 [![CV Badge](https://img.shields.io/badge/CV-blue?style=flat)](https://drive.google.com/file/d/11dvX2hZk4oW8Atxrquog9Th4lhNOH0aQ/view?usp=drive_link)
 [![Website Badge](https://img.shields.io/badge/Website-blue?style=flat)](https://cesarchaparrobenll.wixsite.com/cesar-data-analyst)
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="cesarda" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://il.linkedin.com/in/cesarda?trk=profile-badge">Cesar Chaparro</a></div>
-              
 <br>
 I am here to listen, analyze and solve your business concerns.<br>
 Experienced with real-based projects.<br>
