@@ -1,20 +1,38 @@
-# 💫 About Me:
-As a Data Analyst, I leverage my background in management <br>and operations to drive meaningful insights and create value <br>for organizations.<br>My expertise in Python, SQL, Excel, and BI tools enables me to <br>optimize processes and enhance performance through <br>data-driven decisions.<br>My greatest strength is collaborating and driving efficiencies <br>across the team, and I have talent for data manipulation, analysis<br>and visualization of data to make informed decisions.<br>I am passionate about empowering companies by helping them <br>find solutions that work for them and growing with new technologies<br>to deliver better and more efficiently.<br>And most importantly, I value respect, being collaborative and <br>inclusive while I work.
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cesarchaparro_83230) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cesarda/) 
-
-# 💻 Tech Stack:
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=plastic&logo=Airbnb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=plastic&logo=Meta&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CesarChaparro1974&theme=holi&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CesarChaparro1974&theme=holi&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CesarChaparro1974&theme=holi&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=CesarChaparro1974&icon=9&color=1)](https://visitcount.itsvg.in)
---->
+  <h1 align="center"> Hi there 👋, I'm Cesar</h1>
+<p><a target="_blank" href="https://www.stefanosst.gr"><img src="https://github.com/StefanosSt/StefanosSt/blob/main/Group%203.png"></a></p>
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Shopify+Expert;Frontend+Developer;React%20|%20Gatsby%20|%20Next+Enthusiast;DL%20|%20AI%20|%20ML%20Applications;Always%20developing%20my%20skills&amp;center=true&amp;width=380&amp;height=45">
+	</a>
+</p>
+<pre>💻 I am developing my skills as a Frontend Developer | Enthuastic about new technologies
+📚 I have a Bachelors in Computer Science and a Masters in Artificial Intelligence &amp; Deep Learning
+📝 I have a strong interest in building Frontend Uis for ML applications
+🔭 Working on Shopify Themes and React websites using Gatsby.js
+🌱 Focusing on Learning about customer needs and making their lives easier
+🌟 Main languages: Javascript, Python
+🚩 Interested in Full Stack Machine Learning Application development
+</pre>
+<h1 id="tech-stack">💻Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"></h1>
+<p><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript"> <img src="https://img.shields.io/badge/python-darkblue.svg?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python"><img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&amp;logo=heroku&amp;logoColor=white" alt="Heroku"> <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&amp;logo=netlify&amp;logoColor=#00C7B7" alt="Netlify"> <img src="https://img.shields.io/badge/sass-firebrick.svg?style=for-the-badge&amp;logo=sass&amp;logoColor=white" alt="SASS"> <img src="https://img.shields.io/badge/gatsby-%23430098.svg?style=for-the-badge&amp;logo=gatsby&amp;logoColor=white" alt="Gatsby"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&amp;logo=Cloudflare&amp;logoColor=white" alt="Cloudflare"> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Vercel"> <img src="https://img.shields.io/badge/NPM-6DA55F.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt="NPM"> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" alt="Next JS"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJS"> <img src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&amp;logo=pug&amp;logoColor=A86454" alt="Pug"> <img src="https://img.shields.io/badge/bootstrap-%23430098.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" alt="TailwindCSS"> <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&amp;logo=yarn&amp;logoColor=white" alt="Yarn"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/tensorflow-orange.svg?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="Tensorflow"><img src="https://img.shields.io/badge/pytorch-%23000000.svg?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="Pytorch">
+<img src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&amp;logo=adobeillustrator&amp;logoColor=white" alt="Adobe Illustrator"> <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&amp;logo=adobephotoshop&amp;logoColor=white" alt="Adobe Photoshop"><img src="https://img.shields.io/badge/figma-black.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=red" alt="Figma"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&amp;logo=Canva&amp;logoColor=white" alt="Canva"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker"></p>
+<div align="center">
+  <h3><b>Let's get in touch! </b></h3>
+  </div>
+<p align="center">
+<a href="https://www.linkedin.com/in/stefanos-stamoulis/" target="_blank">
+  <img align="center" alt="Stefanos Stamoulis | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg">
+</a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/steve.frontdev/" target="_blank">
+  <img align="center" alt="Stefanos Stamoulis | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg">
+</a> &nbsp;&nbsp;
+<a href="mailto:sstamoulis.wd@gmail.com">
+  <img align="center" alt="Stefanos Stamoulis | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg">
+</a> &nbsp;&nbsp;
+</p><p>
+</p><p align="center">
+  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
+</p>
+<hr>
+<p><a href="https://github.com/StefanosSt">StefanosSt</a>
+Last Edited on : 13/08/2023</p> 
