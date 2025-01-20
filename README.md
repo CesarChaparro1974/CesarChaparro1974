@@ -46,7 +46,7 @@ while I work.
   </a>
 </p>
 <p align="center">
-  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
+  <img src="https://github.com/CesarChaparro1974/CesarChaparro1974/blob/main/github-user-contribution.svg" alt="snake">
 </p>
 <hr>
 <p><a href="https://github.com/CesarChaparro1974">CesarCh</a>
