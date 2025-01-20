@@ -35,15 +35,17 @@ while I work.
   <h3><b>Let's get in touch! </b></h3>
   </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/stefanos-stamoulis/](https://www.linkedin.com/in/cesarda/" target="_blank">
-  <img align="center" alt="Stefanos Stamoulis | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg">
-</a> &nbsp;&nbsp;
-</a> &nbsp;&nbsp;
-<a href="mailto:cesarchaparrobenllochd@gmail.com">
-  <img align="center" alt="Cesar Chaparro | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg">
-</a> &nbsp;&nbsp;
-</p><p>
-</p><p align="center">
+  <a href="https://www.linkedin.com/in/cesarda/" target="_blank">
+    <img align="center" alt="Cesar Chaparro | LinkedIn" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg">
+  </a> &nbsp;&nbsp;
+  <a href="mailto:cesarchaparrobenllochd@gmail.com">
+    <img align="center" alt="Cesar Chaparro | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg">
+  </a> &nbsp;&nbsp;
+  <a href="https://public.tableau.com/app/profile/cesar.chaparro6844/vizzes" target="_blank">
+    <img align="center" alt="Cesar Chaparro | Tableau" width="100px" src="https://img.shields.io/badge/My Portfolio-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
+  </a>
+</p>
+<p align="center">
   <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
 </p>
 <hr>
