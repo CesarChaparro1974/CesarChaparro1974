@@ -39,7 +39,7 @@ while I work.
   <img align="center" alt="Stefanos Stamoulis | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg">
 </a> &nbsp;&nbsp;
 </a> &nbsp;&nbsp;
-<a href="mailto:sstamoulis.wd@gmail.com">
+<a href="mailto:cesarchaparrobenllochd@gmail.com">
   <img align="center" alt="Cesar Chaparro | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg">
 </a> &nbsp;&nbsp;
 </p><p>
