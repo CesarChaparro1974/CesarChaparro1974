@@ -1,5 +1,9 @@
   <h1 align="center"> Hi there 👋, I'm Cesar</h1>
-<p><a target="_blank" href="https://cesarchaparrobenll.wixsite.com/cesar-data-analyst"><img src="https://github.com/StefanosSt/StefanosSt/blob/main/Group%203.png"></a></p>
+<p>
+  <a target="_blank" href="https://cesarchaparrobenll.wixsite.com/cesar-data-analyst">
+    <img src="https://github.com/CesarChaparro1974/CesarChaparro1974/blob/main/foto_portada.jpg" style="width: 100%;">
+  </a>
+</p>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Excel+SQL+Python;Dashboards%20|%20Tableau%20;Marketing%20|%20Business%20|%20KPIs%20;Always%20developing%20my%20skills&amp;center=true&amp;width=380&amp;height=45">
