@@ -9,7 +9,7 @@
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Excel+SQL+Python;Dashboards%20|%20Tableau%20;Marketing%20|%20Business%20|%20KPIs%20;Always%20developing%20my%20skills&amp;center=true&amp;width=380&amp;height=45">
 	</a>
 </p>
-<pre>💻 +2 years of experience as a data analyst, I have successfully led projects utilizing Python, SQL, Excel<br>
+<pre>💻 +2 years of experience as a data analyst, I have successfully led projects utilizing Python, SQL, Excel
 and BI tools to optimize processes and enhance performance through data-driven decisions.
 📚 My skills span across various domains, including business analysis, marketing analysis, and customer churn<br> analysis, where I have driven meaningful insights and created substantial value for organizations.
 📝 I have developed and implemented fraud detection models and conducted comprehensive exploratory data analysis,<br>
