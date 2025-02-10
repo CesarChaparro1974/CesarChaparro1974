@@ -12,7 +12,8 @@
 <pre>💻 +2 years of experience as a data analyst, I have successfully led projects utilizing Python, SQL, Excel
 and BI tools to optimize processes and enhance performance through data-driven decisions.<br>
 📚 My skills span across various domains, including business analysis, marketing analysis, 
-and customer churn analysis, where I have driven meaningful insights and created substantial value for organizations.<br>
+and customer churn analysis, where I have driven meaningful insights and created substantial value 
+for organizations.<br>
 📝 I have developed and implemented fraud detection models and conducted comprehensive exploratory data analysis,
 leading to actionable insights and strategic improvements.<br>
 🔭 My proficiency in creating dashboards and conducting financial analyses has empowered companies to make<br> informed decisions.<br>
