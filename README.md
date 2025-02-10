@@ -1,13 +1,17 @@
   <h1 align="center"> Hi there 👋, I'm Cesar</h1>
-<p><a target="_blank" href="https://cesarchaparrobenll.wixsite.com/cesar-data-analyst"><img src="https://github.com/StefanosSt/StefanosSt/blob/main/Group%203.png"></a></p>
+<p>
+  <a target="_blank" href="https://cesarchaparrobenll.wixsite.com/cesar-data-analyst">
+    <img src="https://github.com/CesarChaparro1974/CesarChaparro1974/blob/main/foto_portada.jpg" style="width: 100%;">
+  </a>
+</p>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Excel+SQL+Python;Dashboards%20|%20Tableau%20;Marketing%20|%20Business%20|%20KPIs%20;Always%20developing%20my%20skills&amp;center=true&amp;width=380&amp;height=45">
 	</a>
 </p>
-<pre>💻 +2 years of experience as a data analyst, I have successfully led projects utilizing Python, SQL, Excel,<br> and BI tools to optimize processes and enhance performance through data-driven decisions.<br>
-📚 My skills span across various domains, including business analysis, marketing analysis,<br>
-and customer churn analysis, where I have driven meaningful insights and created substantial value for organizations.<br>
+<pre>💻 +2 years of experience as a data analyst, I have successfully led projects utilizing Python, SQL, Excel, and BI tools to optimize processes and enhance performance through data-driven decisions.<br>
+📚 My skills span across various domains, including business analysis, marketing analysis, and customer churn analysis, where I have driven meaningful insights and created substantial value for organizations. 
+<br>
 📝 I have developed and implemented fraud detection models and conducted comprehensive exploratory data analyses, leading to actionable insights and strategic improvements.<br>
 🔭 My proficiency in creating dashboards and conducting financial analyses has empowered companies to make informed decisions.<br>
 🌱 I excel in collaborating with teams to drive efficiencies and am passionate about leveraging new technologies to deliver solutions that are both effective and efficient.<br>
