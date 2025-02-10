@@ -5,19 +5,13 @@
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Excel+SQL+Python;Dashboards%20|%20Tableau%20;Marketing%20|%20Business%20|%20KPIs%20;Always%20developing%20my%20skills&amp;center=true&amp;width=380&amp;height=45">
 	</a>
 </p>
-<pre>💻 As a Data Analyst, I leverage my background in management and 
-operations to drive meaningful insights and create value for organizations.<br>
-📚 My skills in Python, SQL, Excel, and BI tools enables me to optimize
-processes and enhance performance through data-driven decisions.<br>
-📝 My greatest strength is collaborating and driving efficiencies across the
-team.<br>
-🔭 I have talent for data manipulation, analysis and visualization of
-data.<br>
-🌱 I am passionate about empowering companies by helping them find
-solutions that work for them and growing with new technologies to deliver
-better and more efficiently.<br>
-🌟 And most importantly, I value respect, being collaborative and inclusive
-while I work.
+<pre>💻 +2 years of experience as a data analyst, I have successfully led projects utilizing Python, SQL, Excel,<br> and BI tools to optimize processes and enhance performance through data-driven decisions.<br>
+📚 My skills span across various domains, including business analysis, marketing analysis,<br>
+and customer churn analysis, where I have driven meaningful insights and created substantial value for organizations.<br>
+📝 I have developed and implemented fraud detection models and conducted comprehensive exploratory data analyses, leading to actionable insights and strategic improvements.<br>
+🔭 My proficiency in creating dashboards and conducting financial analyses has empowered companies to make informed decisions.<br>
+🌱 I excel in collaborating with teams to drive efficiencies and am passionate about leveraging new technologies to deliver solutions that are both effective and efficient.<br>
+🌟 Above all, I value respect, collaboration, and inclusivity in my work environment.
 </pre>
 <h1 id="tech-stack">💻Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"></h1>
 <p align="center">
