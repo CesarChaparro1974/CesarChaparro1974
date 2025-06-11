@@ -9,17 +9,9 @@
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Excel+SQL+Python;Dashboards%20|%20Tableau%20;Marketing%20|%20Business%20|%20KPIs%20;Always%20developing%20my%20skills&amp;center=true&amp;width=380&amp;height=45">
 	</a>
 </p>
-<pre>💻 +2 years of experience as a data analyst, I have successfully led projects utilizing Python, SQL, Excel
-and BI tools to optimize processes and enhance performance through data-driven decisions.<br>
-📚 My skills span across various domains, including business analysis, marketing analysis, 
-and customer churn analysis, where I have driven meaningful insights and created substantial value 
-for organizations.<br>
-📝 I have developed and implemented fraud detection models and conducted comprehensive exploratory data analysis,
-leading to actionable insights and strategic improvements.<br>
-🔭 My proficiency in creating dashboards and conducting financial analyses has empowered companies to make<br> informed decisions.<br>
-🌱 I excel in collaborating with teams to drive efficiencies and am passionate about leveraging new
-technologies to deliver solutions that are both effective and efficient.<br>
-🌟 Above all, I value respect, collaboration, and inclusivity in my work environment.
+<pre>✅ +3 Years background in Management and Operations, combined with +2 years experience as Data Analyst, now specialized in the Marketing field (Google Ads, Analytics, and Meta) allow me to approach data analysis with a strategic perspective, leveraging advanced skills in feature engineering and the development of customized KPIs to extract deeper insights from marketing data. This approach enables the design of more effective measurement frameworks and the optimization of digital marketing strategies to better align with overall business objectives.<br>
+💻 Programming & Tools: SQL, Python, Excel, MySQL, Tableau, Visual Studio Code, BigQuery
+📊 Analytics: Statistics, Google Analytics, Gooogle Ads, Meta, AdWords, GA4, Conversion Funnel Engineering, EDA, Dashboards, Insights, KPIs, Data Models, Relational Databases, Hypotthesis testing, Data Cleaning.<br>
 </pre>
 <h1 id="tech-stack">💻Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"></h1>
 <p align="center">
